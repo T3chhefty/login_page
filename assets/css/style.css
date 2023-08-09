@@ -14,11 +14,9 @@ body {
 }
 
 .wrapper {
+  margin: auto;
   background-color: white;
-  position: absolute;
   padding: 40px;
-  top: 9%;
-  left: 35%;
   width: fit-content;
   height: fit-content;
   border-radius: 15px;

@@ -21,6 +21,7 @@ body {
   height: fit-content;
   border-radius: 15px;
   box-shadow: 5px 5px 15px 1px #7f7c7c;
+  margin-top: 5%;
 }
 
 .social_icon {
